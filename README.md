@@ -6,5 +6,5 @@
 
 
 - 🌱 I’m currently learning - Python
-- 📫 Find me on [Telegram](https://t.me/Itzkakarotto) <img src = htt
+- 📫 Find me on [Telegram](https://t.me/Itzkakarotto) 
 
