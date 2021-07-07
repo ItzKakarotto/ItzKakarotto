@@ -1,4 +1,10 @@
-GITHUB STATS
+### Hi there 👋
 
 
-https://camo.githubusercontent.com/9db8a32c47e8befb2ee374d826810f0ada82c750ba5a865f2a6f27fa40b5da9c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6472616773616d612673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f7469746c653d74727565
+
+![DragSama's github stats](https://github-readme-stats.vercel.app/api?username=dragsama&show_icons=true&theme=radical&hide_title=true)
+
+- 🔭 I’m currently working on [AniFluid](https://t.me/AniFluidBot), [Sibyl System](https://github.com/AnimeKaizoku/SibylSystem), [Tamokuteki](https://github.com/DragSama/Tamokuteki)
+- 🌱 I’m currently learning - Python, Rust
+- 📫 Reach me on [Telegram](https://t.me/DragSama) <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
+
